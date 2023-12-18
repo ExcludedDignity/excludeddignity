@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Excluded! 👋
+---------------------------
 
-<!--
-**ExcludedDignity/excludeddignity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a Full-Stack developer who mostly does freelance work and personal projects.
+- I tend to private most of my repositories to prevent people from stealing my code and my ideas.
 
-Here are some ideas to get you started:
+**Languages and Tools I use:** 
+<br>
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" width="30" height="30"> <!-- JavaScript -->
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/go.svg" width="30" height="30"> <!-- Go -->
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" width="30" height="30"> <!-- C++ -->
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%23.svg" width="30" height="30"> <!-- C# -->
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" width="30" height="30"> <!-- IntelliJ IDEA -->
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/goland.png" width="30" height="30"> <!-- GoLand -->
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/vs-studio.svg" width="30" height="30"> <!-- Visual Studio -->
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="30" height="30"> <!-- Visual Studio Code -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact Me:**
+<br>
+If you wish to contact me, you can reach out to me through [Discord](https://discordapp.com/users/583425839694086154).

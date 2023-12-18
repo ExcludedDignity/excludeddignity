@@ -6,14 +6,14 @@
 
 **Languages and Tools I use:** 
 <br>
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" width="30" height="30"> <!-- JavaScript -->
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/go.svg" width="30" height="30"> <!-- Go -->
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" width="30" height="30"> <!-- C++ -->
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%23.svg" width="30" height="30"> <!-- C# -->
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" width="30" height="30"> <!-- IntelliJ IDEA -->
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/goland.png" width="30" height="30"> <!-- GoLand -->
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/vs-studio.svg" width="30" height="30"> <!-- Visual Studio -->
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="30" height="30"> <!-- Visual Studio Code -->
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/go.svg" width="30" height="30">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%23.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/goland.png" width="30" height="30">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/vs-studio.svg" width="30" height="30">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="30" height="30">
 
 **Contact Me:**
 <br>
